@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D481-C0E6
+
+ Directory of C:\Users\dell\Desktop\My Projects
+
+28/07/2018  11:40    <DIR>          .
+28/07/2018  11:40    <DIR>          ..
+28/07/2018  11:40                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  961,761,050,624 bytes free
